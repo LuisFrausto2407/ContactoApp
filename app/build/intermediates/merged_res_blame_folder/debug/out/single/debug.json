@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-merged_res-28:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-main-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-merged_res-28:\\layout_activity_confirm.xml.flat",
+        "source": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-main-30:\\layout\\activity_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-merged_res-28:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-main-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-merged_res-28:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-main-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.contactoapp-merged_res-28:/layout_activity_confirm.xml.flat",
+        "source": "com.example.contactoapp-main-30:/layout/activity_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-main-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-merged_res-28:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Luis Frausto\\.gradle\\daemon\\8.5\\com.example.contactoapp-main-30:\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

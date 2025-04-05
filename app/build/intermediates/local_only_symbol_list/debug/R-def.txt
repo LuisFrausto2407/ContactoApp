@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+id btnEdit
+id btnNext
+id etDate
+id etDescription
+id etEmail
+id etName
+id etPhone
+id tvDate
+id tvDescription
+id tvEmail
+id tvName
+id tvPhone
+layout activity_confirm
+layout activity_main
+mipmap ic_launcher
+string app_name
+string descripcion
+string editar_datos
+string email
+string fecha_nacimiento
+string nombre_completo
+string siguiente
+string telefono

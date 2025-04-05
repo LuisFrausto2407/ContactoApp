@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactoApp</string>
+    <string name="descripcion">Descripción</string>
+    <string name="editar_datos">Editar datos</string>
+    <string name="email">Email</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="telefono">Teléfono</string>
+</resources>
